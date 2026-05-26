@@ -1,0 +1,13 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{llllllll}
+\hline
+Model & AUC & AP & F1 & Precision & Recall & Threshold & Brier \\
+\hline
+DeepModel(DNN 64-32) & 0.652 & 0.336 & 0.356 & 0.324 & 0.396 & 0.550 & 0.222 \\
+LogReg(balanced) & 0.648 & 0.334 & 0.354 & 0.321 & 0.396 & 0.525 & 0.218 \\
+Heuristic(p_fail_EB) & 0.646 & 0.302 & 0.356 & 0.336 & 0.379 & 0.300 & 0.159 \\
+RandForest(balanced) & 0.631 & 0.315 & 0.305 & 0.307 & 0.302 & 0.475 & 0.179 \\
+\hline
+\end{tabular}
+\end{table}
