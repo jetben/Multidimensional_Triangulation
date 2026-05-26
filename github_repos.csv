@@ -1,0 +1,37 @@
+id,name,description,stars,language,created_at,updated_at,url
+586914715,buroa/k8s-gitops,"Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions 🤖",293,YAML,2023-01-09,2025-09-13,https://github.com/buroa/k8s-gitops
+704182226,deedee-ops/home-ops,"GF-approved geeked homelab k8s cluster deployed with Talos Linux; automated via ArgoCD, Renovate and GitHub Actions 🤖 ",26,YAML,2023-10-12,2025-08-21,https://github.com/deedee-ops/home-ops
+822693184,zebernst/homelab,"Cat-approved 😸 Home Kubernetes cluster running Talos Linux | Automated via Flux, Renovate, and GitHub Actions ⚙️",18,YAML,2024-07-01,2025-09-12,https://github.com/zebernst/homelab
+363988499,SelimHorri/kubernetes-deployment-service-yml-exp,k8s deployment/service file,16,YAML,2021-05-03,2023-08-16,https://github.com/SelimHorri/kubernetes-deployment-service-yml-exp
+668243912,szepeviktor/byte-level-care,Living with zero problems while developing your web application,9,YAML,2023-07-19,2025-09-11,https://github.com/szepeviktor/byte-level-care
+659349255,JakubSzuber/Golden-DevOps,"A complete example of a repository with the implementation of automation, scalability, containerization, availability, and DevOps/GitOps philosophy. In a nutshell, it is a simple React-Nginx app (deployed in AWS EKS through Terraform) that has implemented multiple environments and a bunch of automation built around them! ♾️🚀",7,YAML,2023-06-27,2025-06-18,https://github.com/JakubSzuber/Golden-DevOps
+515199481,jeandeaual/k8s-home-cluster,"Home Kubernetes (k3s) cluster with Ansible, backed by Flux, SOPS, GitHub Actions, Renovate…",5,YAML,2022-07-18,2025-03-13,https://github.com/jeandeaual/k8s-home-cluster
+581574737,zyactions/dotnet-lint,A GitHub Action to lint .NET projects.,4,YAML,2022-12-23,2024-08-11,https://github.com/zyactions/dotnet-lint
+818768701,zanderlewis/ssh-dreamhost,Github Action for pushing code to Dreamhost via SSH.,3,YAML,2024-06-22,2025-06-04,https://github.com/zanderlewis/ssh-dreamhost
+775610221,compscidr/ansible-github-runner,Installs a github self hosted runner,4,YAML,2024-03-21,2025-08-21,https://github.com/compscidr/ansible-github-runner
+616054943,hydephp/action,HydePHP GitHub Actions Workflow,3,YAML,2023-03-19,2025-02-15,https://github.com/hydephp/action
+635106595,0xc000022070/setup-alejandra,GitHub action for alejandra CLI 💅,2,YAML,2023-05-02,2025-08-22,https://github.com/0xc000022070/setup-alejandra
+916621805,pwyde/home-ops,"Kubernetes cluster deployed on Proxmox VE VMs with Talos Linux. Managed with Flux, Renovate and GitHub Actions",2,YAML,2025-01-14,2025-09-13,https://github.com/pwyde/home-ops
+995188412,carldanley/homelab,"My playground for my homelab Kubernetes clusters deployed with Talos Linux & fully automated via Flux, Renovate & GitHub Actions.",2,YAML,2025-06-03,2025-09-13,https://github.com/carldanley/homelab
+737324355,lombardo-luca/pdf2readme,Simple Github Action that converts a PDF file into JPEG images and shows them in your repository's README.,2,YAML,2023-12-30,2024-02-20,https://github.com/lombardo-luca/pdf2readme
+714746169,bunopnu/use-efmt,Use efmt inside your GitHub actions,1,YAML,2023-11-05,2025-02-22,https://github.com/bunopnu/use-efmt
+772051383,elastic/clients-team-automations,Contains shared reusable GitHub Actions workflows of the clients team.,1,YAML,2024-03-14,2024-04-30,https://github.com/elastic/clients-team-automations
+606516140,sv222/go-cicd-examples,This repository contains examples of CI/CD workflows for a Go application using GitHub Actions.,1,YAML,2023-02-25,2025-04-28,https://github.com/sv222/go-cicd-examples
+567764983,zyactions/verify-changed-files,A GitHub Action to verify file changes that occur during workflow execution.,1,YAML,2022-11-18,2023-08-03,https://github.com/zyactions/verify-changed-files
+610185442,DarkbordermanModding/github-actions,Github Actions for game modding.,0,YAML,2023-03-06,2023-05-18,https://github.com/DarkbordermanModding/github-actions
+538532909,flobernd/actions,A collection of GitHub Actions composite actions.,0,YAML,2022-09-19,2022-09-21,https://github.com/flobernd/actions
+669734289,MixeroTN/UniversalWorkflows,Universal Github Actions Workflows,0,YAML,2023-07-23,2024-09-04,https://github.com/MixeroTN/UniversalWorkflows
+896080774,SnO2WMaN/install-juliamono-action,Install JuliaMono for GitHub Actions,0,YAML,2024-11-29,2024-12-01,https://github.com/SnO2WMaN/install-juliamono-action
+900140782,neoncitylights/workflows,collection of GitHub Actions workflows,0,YAML,2024-12-08,2025-03-07,https://github.com/neoncitylights/workflows
+521943136,flobernd/workflows,A collection of reusable GitHub Actions workflows.,0,YAML,2022-08-06,2022-08-14,https://github.com/flobernd/workflows
+896071347,SnO2WMaN/install-fontsource-action,Install fonts via Fontsource for GitHub Actions,0,YAML,2024-11-29,2024-12-08,https://github.com/SnO2WMaN/install-fontsource-action
+539011285,zysharp/workflows,Contains commonly used GitHub Actions workflows for this organization.,0,YAML,2022-09-20,2022-11-22,https://github.com/zysharp/workflows
+588508176,zyactions/workflows,Contains commonly used GitHub Actions workflows for this organization.,0,YAML,2023-01-13,2023-01-13,https://github.com/zyactions/workflows
+638704675,luisnquin/setup-gofumpt,GitHub action for Gofumpt,0,YAML,2023-05-09,2024-05-27,https://github.com/luisnquin/setup-gofumpt
+1023981515,tolkonepiu/hl-cluster,"My HomeLab Cluster managed with Flux, Renovate, and GitHub Actions.",0,YAML,2025-07-22,2025-09-13,https://github.com/tolkonepiu/hl-cluster
+762027977,monosense25/prod-cluster,"My OnPrem Kubernetes cluster. Deploy on top of Talos Linux, automated via Flux, renovate 🤖, and Github actions",0,YAML,2024-02-23,2025-08-11,https://github.com/monosense25/prod-cluster
+783348619,endormi/yearplusplus,Simple GitHub action for automating the year change in specified files,0,YAML,2024-04-07,2025-03-11,https://github.com/endormi/yearplusplus
+576945421,zyactions/dotnet-restore,A GitHub Action that wraps the .NET CLI `dotnet restore` command.,0,YAML,2022-12-11,2022-12-23,https://github.com/zyactions/dotnet-restore
+577363833,zyactions/dotnet-format,A GitHub Action that wraps the .NET CLI `dotnet format` command.,0,YAML,2022-12-12,2022-12-23,https://github.com/zyactions/dotnet-format
+570131449,zyactions/dotnet-setup,A GitHub Action to set up a specific version of the .NET SDK in a workflow run.,0,YAML,2022-11-24,2022-12-23,https://github.com/zyactions/dotnet-setup
+573418525,asizikov/winterfest-2022-postcards,❄️ GitHub Winterfest 2022 demo ☃️,0,YAML,2022-12-02,2022-12-03,https://github.com/asizikov/winterfest-2022-postcards
