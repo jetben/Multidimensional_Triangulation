@@ -1,0 +1,94 @@
+Topic,Words,Frequency,Timestamp
+-1,"clear, travis, deployed, json, content",2,2020-08-04 03:17:16.800
+0,"travis, build, dependency, file, npm",44,2020-08-04 03:17:16.800
+12,"net, runtime, publish, couple, architecture",1,2020-08-04 03:17:16.800
+-1,"nodemodules, uses, run, run npm, repository code",3,2020-11-07 03:36:00.000
+0,"travis, build, docker, error, run",47,2020-11-07 03:36:00.000
+-1,"devnull, cloud, version, auth, shell",3,2021-02-08 07:12:00.000
+0,"travis, cache, docker, build, ci",43,2021-02-08 07:12:00.000
+0,"travis, run, build, error, file",19,2021-05-12 10:48:00.000
+1,"run commands, commands, parallel, run, like run",1,2021-05-12 10:48:00.000
+8,"generate, ive added, dependencies, project using, file",1,2021-05-12 10:48:00.000
+11,"cache, npm, place, caching, nodejs",1,2021-05-12 10:48:00.000
+-1,"function, open, new, npm, command",2,2021-08-13 14:24:00.000
+0,"travis, error, build, package, command",22,2021-08-13 14:24:00.000
+0,"travis, install, python, dockercompose, build",8,2021-11-14 18:00:00.000
+-1,"s3, files, secure, option, deploy",1,2022-02-15 21:36:00.000
+0,"travis, build, docker, line, kubectl",10,2022-02-15 21:36:00.000
+4,"github, github action, action, develop, merged",1,2022-02-15 21:36:00.000
+0,"err, pip, line, file, travis",5,2022-05-20 01:12:00.000
+0,"travis, docker, ci, error, script",12,2022-08-21 04:48:00.000
+-1,"deploy, branch, phase, present, command",1,2022-11-22 08:24:00.000
+0,"config set, npm, config, travis, set",3,2022-11-22 08:24:00.000
+0,"travis, docker, build, docker build, install",4,2023-02-23 12:00:00.000
+0,"compiler, compile, features, error, travis",2,2023-05-27 15:36:00.000
+0,"travis, pages, install, true, version",4,2023-08-28 19:12:00.000
+0,"shell, echo, travis, trying, sed",3,2023-11-29 22:48:00.000
+-1,"ci pipeline, ci, make sure, pipeline, sure",1,2024-03-02 02:24:00.000
+0,"functions, npm, err, 20, tried",1,2024-03-02 02:24:00.000
+12,"dotnet, sdk, tell, package, net",1,2024-03-02 02:24:00.000
+-1,"build, run, file, projects, running",16,2024-06-03 06:00:00.000
+0,"err, run, file, elements, pool",2,2024-06-03 06:00:00.000
+1,"gitlab, pipeline, jobs, git, pass",4,2024-06-03 06:00:00.000
+2,"code, public, private, jenkins, void",1,2024-06-03 06:00:00.000
+3,"trigger, jenkins, al, file, option",2,2024-06-03 06:00:00.000
+4,"workflow, pr, github, main, merge",7,2024-06-03 06:00:00.000
+5,"sql, help, deploy, navigate, hit",1,2024-06-03 06:00:00.000
+7,"development, token, mode, env, shell bash",1,2024-06-03 06:00:00.000
+8,"ios, profile, app, compatibility, certificate",2,2024-06-03 06:00:00.000
+10,"azure, trigger, repository, azure devops, devops",3,2024-06-03 06:00:00.000
+12,"displayname, task, inputs, solution, command",1,2024-06-03 06:00:00.000
+-1,"run, use, build, image, github",44,2024-09-04 09:36:00.000
+0,"run, travis, build, install, ci",13,2024-09-04 09:36:00.000
+1,"stage, gitlab, job, pipeline, script",18,2024-09-04 09:36:00.000
+2,"jenkins, def, true script, org, code",4,2024-09-04 09:36:00.000
+3,"parameter, hash, future, want, jenkins",2,2024-09-04 09:36:00.000
+4,"pr, workflow, main, dev, previous",5,2024-09-04 09:36:00.000
+5,"bytes, data, plan, terraform, gitlab",9,2024-09-04 09:36:00.000
+7,"github, action, github action, run, uses",3,2024-09-04 09:36:00.000
+8,"pod, certificate, ios, cicd, install",2,2024-09-04 09:36:00.000
+9,"container, test, docker, await, service",4,2024-09-04 09:36:00.000
+10,"branch, azure, azure devops, devops, pipeline",10,2024-09-04 09:36:00.000
+11,"image, container, container image, usrlocalbin, install",3,2024-09-04 09:36:00.000
+-1,"projects, page, 100, run, pipeline",72,2024-12-06 13:12:00.000
+0,"tests, travis, test, error, step",10,2024-12-06 13:12:00.000
+1,"gitlab, job, stage, branch, pipeline",56,2024-12-06 13:12:00.000
+2,"jenkins, docker, pipeline, git, sh",46,2024-12-06 13:12:00.000
+3,"jenkins, pipeline, parameter, def, build",34,2024-12-06 13:12:00.000
+4,"pr, develop, main, workflow, echo",5,2024-12-06 13:12:00.000
+5,"gitlab, terraform, error, pipeline, image",18,2024-12-06 13:12:00.000
+6,"azure, return, app, deploy, query",7,2024-12-06 13:12:00.000
+7,"env, github, run, echo, access",6,2024-12-06 13:12:00.000
+8,"security, ios, let, echo, certificate",8,2024-12-06 13:12:00.000
+9,"docker, gitlab, test, container, image",7,2024-12-06 13:12:00.000
+10,"trigger, ci, template, pipeline, branch",4,2024-12-06 13:12:00.000
+11,"image, base image, base, images, container",4,2024-12-06 13:12:00.000
+12,"core, net, net core, project, build",1,2024-12-06 13:12:00.000
+-1,"run, github, build, uses, error",101,2025-03-09 16:48:00.000
+0,"run, yarn, build, docker, error",7,2025-03-09 16:48:00.000
+1,"gitlab, stage, rules, echo, job",42,2025-03-09 16:48:00.000
+2,"jenkins, agent, docker, credentials, container",51,2025-03-09 16:48:00.000
+3,"jenkins, pipeline, script, def, parameters",38,2025-03-09 16:48:00.000
+4,"workflow, github, pr, actions, push",26,2025-03-09 16:48:00.000
+5,"gitlab, pipeline, error, script, aws",10,2025-03-09 16:48:00.000
+6,"azure, app, deploy, uses, web",22,2025-03-09 16:48:00.000
+7,"github, functions, run, env, echo",15,2025-03-09 16:48:00.000
+8,"let, ios, profile, certificate, print",10,2025-03-09 16:48:00.000
+9,"docker, pytest, test, container, image",8,2025-03-09 16:48:00.000
+10,"ref, checkout, pullrequest, branch, main",3,2025-03-09 16:48:00.000
+11,"cache, downloading, image, gitlab, files",7,2025-03-09 16:48:00.000
+12,"nuget, dotnet, visual, restore, cprogram",7,2025-03-09 16:48:00.000
+-1,"run, github, build, actions, error",58,2025-06-10 20:24:00.000
+0,"travis, build, cache, run, docker",6,2025-06-10 20:24:00.000
+1,"gitlab, job, pipeline, branch, stage",18,2025-06-10 20:24:00.000
+2,"jenkins, node, info, error, 12",27,2025-06-10 20:24:00.000
+3,"jenkins, pipeline, parameters, job, parameter",15,2025-06-10 20:24:00.000
+4,"workflow, github, uses, action, actions",19,2025-06-10 20:24:00.000
+5,"gpg, key, gitlab, cluster, sign",3,2025-06-10 20:24:00.000
+6,"azure, app, terraform, deploy, deployment",8,2025-06-10 20:24:00.000
+7,"github, run, secrets, uses, echo",11,2025-06-10 20:24:00.000
+8,"ios, macos, true, app, build",6,2025-06-10 20:24:00.000
+9,"docker, container, pytest, image, gitlab",4,2025-06-10 20:24:00.000
+10,"pr, pull request, pull, request, azure",3,2025-06-10 20:24:00.000
+11,"cache, npm, ci, nodemodules, images",4,2025-06-10 20:24:00.000
+12,"tests, run tests, child, parent, dotnet",2,2025-06-10 20:24:00.000

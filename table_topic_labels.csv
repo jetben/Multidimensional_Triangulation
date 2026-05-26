@@ -1,0 +1,13 @@
+Topic ID,Documents,Short Label,Top Terms
+0,265,"travis, build, docker","travis, build, docker, run, error, file, ci, install, npm, test"
+1,139,"gitlab, stage, job","gitlab, stage, job, pipeline, rules, branch, echo, script, variables, merge"
+2,129,"jenkins, docker, pipeline","jenkins, docker, pipeline, agent, sh, git, error, container, server, node"
+3,91,"jenkins, pipeline, parameter","jenkins, pipeline, parameter, parameters, script, build, def, job, branch, jenkins pipeline"
+4,63,"workflow, pr, github","workflow, pr, github, main, actions, action, github actions, uses, push, run"
+5,41,"gitlab, bytes, terraform","gitlab, bytes, terraform, error, pipeline, data, plan, image, script, using"
+6,37,"azure, app, deploy","azure, app, deploy, uses, deployment, web, github, error, run, web app"
+7,36,"github, run, env","github, run, env, uses, echo, secrets, token, functions, push, docker"
+8,29,"ios, let, certificate","ios, let, certificate, profile, app, security, build, print, error, macos"
+9,23,"docker, pytest, test","docker, pytest, test, container, image, gitlab, service, compose, running, bad"
+10,23,"trigger, azure, branch","trigger, azure, branch, pipeline, azure devops, devops, pull, pull request, ci, branches"
+11,19,"image, cache, gitlab","image, cache, gitlab, downloading, container, images, ci, pipeline, stage, job"

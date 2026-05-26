@@ -1,0 +1,15 @@
+topic,label
+-1,T-1 — clear/travis
+0,T0 — travis/build
+1,T1 — run commands/commands
+2,T2 — code/public
+3,T3 — trigger/jenkins
+4,T4 — github/github action
+5,T5 — sql/help
+6,T6 — azure/return
+7,T7 — development/token
+8,T8 — generate/ive added
+9,T9 — container/test
+10,T10 — azure/trigger
+11,T11 — cache/npm
+12,T12 — net/runtime

@@ -1,0 +1,14 @@
+| Topic | Documents | Top terms |
+|---:|---:|---|
+| 0 | 265 | travis, build, docker, run, error, file, ci, install, npm, test |
+| 1 | 139 | gitlab, stage, job, pipeline, rules, branch, echo, script, variables, merge |
+| 2 | 129 | jenkins, docker, pipeline, agent, sh, git, error, container, server, node |
+| 3 | 91 | jenkins, pipeline, parameter, parameters, script, build, def, job, branch, jenkins pipeline |
+| 4 | 63 | workflow, pr, github, main, actions, action, github actions, uses, push, run |
+| 5 | 41 | gitlab, bytes, terraform, error, pipeline, data, plan, image, script, using |
+| 6 | 37 | azure, app, deploy, uses, deployment, web, github, error, run, web app |
+| 7 | 36 | github, run, env, uses, echo, secrets, token, functions, push, docker |
+| 8 | 29 | ios, let, certificate, profile, app, security, build, print, error, macos |
+| 9 | 23 | docker, pytest, test, container, image, gitlab, service, compose, running, bad |
+| 10 | 23 | trigger, azure, branch, pipeline, azure devops, devops, pull, pull request, ci, branches |
+| 11 | 19 | image, cache, gitlab, downloading, container, images, ci, pipeline, stage, job |
