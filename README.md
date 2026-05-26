@@ -1,0 +1,1 @@
+multi-source triangulation framework integrating (i) CI/CD-related discourse on Stack Overflow, (ii) repository-level adoption signals, and (iii) GitHub Actions execution telemetry at scale. The dataset includes thousands of CI/CD discussion threads and more than 580,000 GitHub Actions runs from 2,000 repositories, aggregated into monthly repository-level reliability profiles
