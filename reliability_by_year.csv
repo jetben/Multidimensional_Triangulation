@@ -1,0 +1,2 @@
+year,total_runs,failed_runs,failure_rate,flaky_runs_attempt_gt1,flakiness_proxy,mean_attempts,mean_duration_min,mean_log_size
+2023,580641,91163,0.157004,15385,0.026497,1.0329,34.591,1323168.8963
